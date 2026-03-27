@@ -3,3 +3,4 @@
 ](https://github.com/safehimself/Opas)
 โหลด c2
 https://www.gyan.dev/ffmpeg/builds/ffmpeg-release-essentials.zip
+ดึงหน้าข้อความ https://blog.csdn.net/PolarisRisingWar/article/details/143356224?utm_source=chatgpt.com
